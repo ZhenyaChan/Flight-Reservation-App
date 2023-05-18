@@ -9,6 +9,6 @@ The mobile app is developed and designed using latest technologies of Swift and 
 1. Create an empty folder
 2. Add the folder to workplace area in XCode and open terminal OR navigate to the created folder using terminal
 3. Download the project .zip file OR Enter to the terminal:
-   `git clone [https://github.com/ZhenyaChan/fragments.git](https://github.com/ZhenyaChan/Flight-Reservation-App.git)`
+   `git clone https://github.com/ZhenyaChan/Flight-Reservation-App.git`
 4. Launch **A2_Dung_108031204.xcodeproj** file
 5. Start the project by pressing **Start** button OR **CMD + R**
