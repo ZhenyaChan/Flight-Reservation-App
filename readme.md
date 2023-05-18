@@ -2,7 +2,9 @@
 
 ## Description
 
-The mobile app is developed and designed using latest technologies of Swift and Storyboard. It allows user to reserve a flight ticket by entering name. and choosing the date and available hard-coded flight routes. Data does not persist after reloading/relaunching the app.
+- The mobile app is developed and designed using latest technologies of Swift and Storyboard. 
+- It allows user to reserve a flight ticket by entering name, and choosing the date and available hard-coded flight routes. 
+- Data does not persist after reloading/relaunching the app.
 
 ## How to Set Up the Project
 
